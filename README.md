@@ -1,6 +1,13 @@
 # Turborepo starter with pnpm
 
-This is an official starter turborepo.
+## Useful links
+
+- https://medium.com/devityoself/monorepo-eslint-vscode-6f5982c8404d - useful for lint issues
+- https://stackoverflow.com/questions/70478741/how-to-deploy-monorepo-powered-by-turborepo-to-vercel
+
+ROOT DIRECTORY: /app/web
+BUILD COMMAND: cd ../.. && pnpm build
+INSTALL COMMAND: cd ../.. && pnpm install
 
 ## What's inside?
 
